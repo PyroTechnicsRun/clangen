@@ -28,7 +28,7 @@ class Name(object):
         "song", "spark", "speck", "speckle", "spirit", "splash", "splashed", "spot", "spots", "spring",
         "stalk", "stem", "step", "stone", "storm", "streak", "stream", "strike", "stripe", "sun",
         "swipe", "swoop", "tail", "tree", "throat", "tuft", "watcher", "water", "whisper",
-        "willow", "wind", "wing", "wish"]
+        "willow", "wind", "wing", "wish", "Zinnia"]
 
     pelt_suffixes = {'TwoColour': ['patch', 'spot', 'splash', 'patch', 'spots'],
                      'Tabby': ['stripe', 'feather', 'leaf', 'stripe', 'shade'],
